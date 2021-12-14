@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Realtime-clock/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Realtime-clock/static/js/main.16c10eea.chunk.js",
+    "main.js.map": "/Realtime-clock/static/js/main.16c10eea.chunk.js.map",
+    "runtime-main.js": "/Realtime-clock/static/js/runtime-main.6efd3828.js",
+    "runtime-main.js.map": "/Realtime-clock/static/js/runtime-main.6efd3828.js.map",
+    "static/js/2.225f9be4.chunk.js": "/Realtime-clock/static/js/2.225f9be4.chunk.js",
+    "static/js/2.225f9be4.chunk.js.map": "/Realtime-clock/static/js/2.225f9be4.chunk.js.map",
+    "static/js/3.d89bfafb.chunk.js": "/Realtime-clock/static/js/3.d89bfafb.chunk.js",
+    "static/js/3.d89bfafb.chunk.js.map": "/Realtime-clock/static/js/3.d89bfafb.chunk.js.map",
+    "index.html": "/Realtime-clock/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Realtime-clock/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.225f9be4.chunk.js.LICENSE.txt": "/Realtime-clock/static/js/2.225f9be4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6efd3828.js",
+    "static/js/2.225f9be4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.16c10eea.chunk.js"
+  ]
+}
